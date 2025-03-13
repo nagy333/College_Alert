@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">College Alert</string>
+    <string name="event_label">What is the Event?</string>
+    <string name="channel_name">Alarm Channel</string>
+    <string name="channel_Desc">channel description</string>
+    <string name="warning">Are you sure?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="event_placeholder">Enter Event Here</string>
+    <string name="empty_label_msg">Enter Event First</string>
+    <string name="new_event_title">New Event</string>
+    <string name="events_screen_title">Events</string>
+    <string name="date_placeholder">Date not Set</string>
+    <string name="ok">OK</string>
+    <string name="time_placeholder">Time not Set</string>
+    <string name="confirm">Confirm</string>
+    <string name="image_desc">image</string>
+</resources>
