@@ -1,0 +1,1 @@
+Android application that allows students to add and manage personal academic events. Users can input an event name, set the data and time, and receive timely alarm notification when the event is due. Buil with a focus on productivity and ease of use, this app provides essential reminder functionality tailored to a student's daily needs.
